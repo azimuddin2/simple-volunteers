@@ -1,0 +1,19 @@
+.menu {
+    background-color: rgb(149, 211, 238);
+    padding: 14px 0px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    position: sticky;
+    top: 0;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-right: 12px;
+}
+
+.nav a:hover {
+    color: orange;
+}
